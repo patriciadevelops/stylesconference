@@ -1,15 +1,15 @@
 ## Styles Conference Website ##
 
-A website built from Shay Howe's tutorial "Learn to Code HTML & CSS". 
+A website built from Shay Howe's tutorial "Learn to Code HTML & CSS." 
 
 **Link to project:** https://stylesconference-pd.netlify.app
 
 **Tech used:** HTML & CSS.
 
-Debloyed to Netlify.
+Deployed to Netlify.
 
 ### Lessons Learned: ###
-There were some of the things I learned building this website: 
+There are some of the things I learned building this website: 
 - Box Model
 - Creating Lists
 - Positioning Content
